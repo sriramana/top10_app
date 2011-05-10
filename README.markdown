@@ -233,7 +233,7 @@ public
 script
   Helper scripts for automation and generation.
 
-test
+test...
   Unit and functional tests along with fixtures. When using the script/generate scripts, template
   test files will be generated for you and placed in this directory.
 
